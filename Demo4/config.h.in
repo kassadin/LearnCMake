@@ -1,0 +1,8 @@
+//
+// Created by Kassadin on 14/02/2017.
+//
+
+#ifndef LEARNCMAKE_CONFIG_H
+#define LEARNCMAKE_CONFIG_H
+#cmakedefine USE_MYMATH
+#endif //LEARNCMAKE_CONFIG_H
